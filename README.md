@@ -1,6 +1,34 @@
 # match3
 
-A 2D match-3 game written in C and raylib
+A simple 2D match-3 game written in C and raylib
+
+![Demo](assets/demo.gif)
+
+## Dependencies
+
+Make sure you have installed:
+
+- gcc
+- make or cmake
+- raylib
+
+## Build and run project
+
+- **With Make:**
+
+```bash
+make && ./build/match3
+```
+
+- **With CMake:**
+
+```bash
+mkdir build
+cd build
+cmake ..
+cmake --build .
+./match3
+```
 
 ## Credits
 

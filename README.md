@@ -2,8 +2,6 @@
 
 A 2D match-3 game written in C and raylib
 
-<video src="assets/demo.mp4" controls></video>
-
 ## Credits
 
 - Based on [C Programming with Raylib – Match3 Game Tutorial, by FreeCodeCamp](https://youtu.be/P7PMA3X1tf8?si=VhdXCoPHqO98TcAP)
